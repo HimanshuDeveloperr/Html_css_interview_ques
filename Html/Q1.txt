@@ -1,3 +1,8 @@
+
+1 Are the HTML tags and elements the same thing?
+
+
+
 No,as html elements consists of an opening tag and a content inbetween it ending with a closing tag.
 whereas html tag are just there to indicate an opening and closing property of an element.
 ex:-<p>....content</p> (Html element)
