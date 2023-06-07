@@ -1,0 +1,4 @@
+What are inline elements? What are block level elements? What is the difference between them?
+
+inline elements only takes the space needed by that particular element and we could write other elements beside them
+where as block elements occupies the whole space of the body and the new element should always falls below it even if you had written it beside the block element.
