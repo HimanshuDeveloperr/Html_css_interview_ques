@@ -1,0 +1,12 @@
+How to optimize website assets loading?
+
+1:-lazy loading 
+the files which are not that important could load a bit later after the essential files are done with there loading instead of loading everything at once.
+
+2:-Minify scripts - This reduces the overall file size of js and CSS files
+
+3:-Content Delivery Network (CDN): Utilize a CDN to deliver your assets from servers located closer to the user's geographical location. CDNs distribute your website's files across multiple servers worldwide, reducing latency and improving loading times.
+
+4:-File compression - This is a method that helps to reduce the size of an asset to reduce the data transfer
+
+5:-File concatenation - This reduces the number of HTTP calls
