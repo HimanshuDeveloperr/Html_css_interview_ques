@@ -1,0 +1,4 @@
+What is the ‘class’ attribute in HTML?What is the difference between the ‘id’ attribute and the ‘class’ attribute of HTML elements?
+
+
+class elements are used to give class name to a particular element or grounp of elements like on a same class consisting of different students where as an id is a particular idetification attribute which could be given to only one element .
