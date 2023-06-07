@@ -1,0 +1,4 @@
+Can we display a web page inside a web page or Is nesting of webpages possible?
+
+<iframe src=”url of the web page to embed” />
+we could achieve something like that using iframe tag.
