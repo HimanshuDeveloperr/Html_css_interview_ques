@@ -1,0 +1,7 @@
+What are different types of lists in HTML? Explain the difference between each one of them
+
+1:-ordered lists
+2:-unordered lists
+
+ordered lists are displayed with a number of or any sequential format of <li> tags
+unordered lists are displayed with a bullet of <li> tags
