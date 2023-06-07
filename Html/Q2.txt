@@ -1,0 +1,3 @@
+ What are tags and attributes in HTML?
+
+ tags are the primary components of the html which determines how the page will look whereas the attributes give the properties to that tag and used inside the html tag
