@@ -1,0 +1,6 @@
+What is the difference between <strong>, <b> tags and <em>, <i> tags?
+
+<b> makes text bold
+<i> makes text itallic
+<em> makes text itallic but give a meaning to that text highlights it.
+<strong> to write important texts
