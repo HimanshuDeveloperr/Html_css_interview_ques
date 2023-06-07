@@ -1,0 +1,14 @@
+In how many ways can we position an HTML element? What are the permissible values of the position attribute?Explain the exact difference each one of them in your own words
+
+1:-static:-which is a default position style given to the elements and it means do not interfere which means we could not change the positions of that element.
+
+2:-relative:-we could change the position of element around using its origin as its reference point 
+it enables four property for us and elements around are not get effected by it
+*right
+*top
+*bottom
+*left
+
+3:-absolute:- most used one,we could move the elements around with reference to its relative parent element
+
+4:-fixed:-we could move the elements around with reference to its root the body  element
