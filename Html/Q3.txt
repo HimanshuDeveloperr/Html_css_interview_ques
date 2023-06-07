@@ -1,0 +1,4 @@
+What are void elements in HTML?
+
+tags without a closing tag are known as void elements.
+ex <img/>
