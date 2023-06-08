@@ -1,0 +1,9 @@
+What is a style sheet?
+
+A style sheet is a set of rules written in CSS (Cascading Style Sheets) that define the visual appearance and formatting of HTML or XML documents. It controls the presentation layer of a web page, specifying colors, fonts, spacing, and layout. There are three types of style sheets: external, internal, and inline. 
+
+- External style sheets are separate CSS files linked to HTML documents and promote code reusability.
+- Internal style sheets are defined within the `<style>` tags of an HTML document and apply only to that document.
+- Inline styles are CSS rules directly applied to individual HTML elements using the `style` attribute.
+
+Style sheets help maintain consistency and provide a standardized look and feel across web pages. They separate the presentation aspects from the content, making it easier to update and manage the visual design of a website or application.
