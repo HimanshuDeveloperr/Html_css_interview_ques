@@ -1,0 +1,3 @@
+How to handle events in HTML?
+
+HTML allows event trigger actions in browsers using javascript or JQuery. There are a lot of events like ‘onclick’, ‘ondrag’, ‘onchange’, etc.
