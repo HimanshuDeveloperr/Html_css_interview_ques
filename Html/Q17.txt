@@ -1,0 +1,4 @@
+Difference between link tag <link> and anchor tag <a>?
+
+a link tag is used to establish a link between a document and an external resource and are not clickable
+whereas a anchor tag are clickable and used to create hyperlinks to another webpages.
