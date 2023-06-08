@@ -1,0 +1,30 @@
+What are Web Workers?
+
+- Web Workers are a feature in HTML5 that allow JavaScript code to run in the background.
+- They operate in separate threads, enabling concurrent processing and improving performance.
+- Web Workers cannot directly access or modify the web page's DOM.
+- Communication between the main thread and Web Workers is achieved through message passing.
+- There are two types of Web Workers: Dedicated Workers and Shared Workers.
+- They are useful for tasks involving heavy computation, data processing, and long-running operations.
+- Examples of use cases include image/video processing, data analysis, and real-time communication.
+
+
+Web Workers are a feature introduced in HTML5 that allow web applications to run JavaScript code in the background, separate from the main browser thread. They enable concurrent processing, improving performance and responsiveness of web applications.
+
+Here are key points about Web Workers:
+
+1. Background Processing: Web Workers allow the execution of JavaScript code in the background, independent of the main browser thread. This helps prevent blocking of the user interface and provides a responsive user experience.
+
+2. Separate Thread: Web Workers run in a separate thread from the main thread of the web page. This enables concurrent execution and parallel processing, allowing complex or time-consuming tasks to be performed without impacting the main thread's performance.
+
+3. No DOM Access: Web Workers do not have direct access to the Document Object Model (DOM) of the web page. They cannot modify the DOM directly. Instead, they focus on performing computational tasks, calculations, or other non-DOM-related operations.
+
+4. Communication: Web Workers communicate with the main thread through message passing. They can send and receive messages to exchange data and instructions. This enables coordination and collaboration between the main thread and the Web Worker.
+
+5. Types of Web Workers: HTML5 introduced two types of Web Workers:
+   - Dedicated Workers: Dedicated Workers are created for a specific JavaScript file. They can perform tasks as long as needed and can be terminated explicitly.
+   - Shared Workers: Shared Workers can be shared among multiple browser windows or tabs. They provide a means of communication and coordination between different instances of the same web application.
+
+6. Use Cases: Web Workers are beneficial for tasks that require heavy computation, data processing, or long-running operations. They are commonly used for tasks like image/video processing, data analysis, complex calculations, real-time communication, and more.
+
+Web Workers help improve the overall performance and responsiveness of web applications by offloading computationally intensive tasks to separate threads. By leveraging multi-threading capabilities, Web Workers enhance the user experience and enable developers to build more powerful and efficient web applications.
