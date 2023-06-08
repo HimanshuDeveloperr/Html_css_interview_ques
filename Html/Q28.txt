@@ -1,0 +1,12 @@
+Why do you think the addition of drag-and-drop functionality in HTML5 is important? How will you make an image draggable in HTML5?
+
+The addition of drag-and-drop functionality in HTML5 is important as it enhances user experience by enabling intuitive and interactive interactions with web content. It simplifies tasks, improves usability, and enables streamlined workflows.
+
+To make an image draggable in HTML5:
+
+1. Assign an `id` to the `<img>` tag representing the image.
+2. Use JavaScript to add a `dragstart` event listener to the image.
+3. In the event listener, set the data to be transferred during the drag operation using `event.dataTransfer.setData()`.
+4. Optionally, apply CSS styles to indicate the draggable nature of the image.
+
+With these steps, the image becomes draggable, allowing users to click and hold it to initiate the drag operation. Further customization and handling of events like `dragenter`, `dragover`, and `drop` can be implemented to define behavior when dragging over or dropping onto specific areas.
