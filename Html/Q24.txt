@@ -1,0 +1,9 @@
+
+What are the significant goals of the HTML5 specification?
+
+
+Introduction of new element tags to better structure the web page such as <header> tag.
+Backward compatible with the older version HTML web pages
+could Support media in it without any dependency.
+
+Offline and storage capabilities: HTML5 introduces technologies like the Application Cache (AppCache) and Web Storage (localStorage and sessionStorage) that allow web applications to function offline and store data on the client-side, reducing reliance on server communication.
