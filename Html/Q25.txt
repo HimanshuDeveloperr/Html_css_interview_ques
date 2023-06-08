@@ -1,0 +1,18 @@
+
+Explain the concept of web storage in HTML5. What are the different types of storage and when to use what?
+
+Web Storage in HTML5 provides client-side storage options for web applications: localStorage and sessionStorage.
+
+- localStorage:
+  - Persistent storage across multiple sessions.
+  - Data remains even after browser closure.
+  - Larger storage capacity (around 5MB or more).
+  - Suitable for long-term data and user preferences.
+
+- sessionStorage:
+  - Data tied to a specific browsing session.
+  - Cleared when the browser or tab is closed.
+  - Temporary storage solution.
+  - Ideal for session-specific data and temporary needs.
+
+Both use key-value pairs and JavaScript APIs for interaction. Web storage enhances web applications by offering efficient client-side data storage without relying solely on server-side solutions.
