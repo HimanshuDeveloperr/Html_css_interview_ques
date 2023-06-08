@@ -1,0 +1,5 @@
+How many types of CSS can be included in HTML?
+
+internal CSS
+external CSS
+inline CSS
