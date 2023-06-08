@@ -1,0 +1,10 @@
+2 In how many ways you can display HTML elements? 
+
+
+1:-inline:-could change any block element to inline element using this property
+2:-block:-could change any inline element to block element using this property
+3:-inline-block:- this will behave similar to inline property exact we could change width and height of the element also.
+4:-flex:by using this our whole element follows the flexbox property of container 
+5:-inline-flex:-it makes the container as inline element and all the elements inside the container follows flexbox property.
+6:-grid :- using this html element could be shown as grid container.
+7:-none:-helps to hide the elements.
