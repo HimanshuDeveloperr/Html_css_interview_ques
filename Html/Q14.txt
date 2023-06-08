@@ -1,0 +1,3 @@
+What is the difference between “display: none” and “visibility: hidden”, when used as attributes to the HTML element.
+
+both helps to make html elements hide but one visibility attribute takes space of the element even the element is not getting shown on the webpages whereas none totally hides the element from the webpages.
