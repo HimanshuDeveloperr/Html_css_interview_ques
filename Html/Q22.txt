@@ -1,0 +1,5 @@
+
+How can we include audio or video in a webpage?
+
+HTML5 provides two tags: <audio> and <video> tags using which we can add the audio or video directly in the webpage.
+
