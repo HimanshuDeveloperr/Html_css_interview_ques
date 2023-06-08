@@ -1,0 +1,6 @@
+What are Semantic Elements?Explain each one of them. WHere would you use them?
+
+Semantic tag gives meaning to where it has been written / what is written inside it.
+
+Semantic elements are those which describe the particular meaning to the browser and the developer. Elements like <form>, <table>, <article>, <figure>, etc., are semantic elements.
+
