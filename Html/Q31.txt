@@ -1,0 +1,5 @@
+
+What is a manifest file in HTML5?
+
+
+The manifest file in HTML5 is a text file that specifies which resources should be cached by the browser for offline access. It allows web applications to function even without an internet connection. The file is used in conjunction with the Application Cache API and enables developers to create offline web applications by listing the resources that should be stored locally on the user's device. The manifest file includes a version number or timestamp to manage updates and refreshing of the cached resources. It is worth noting that the manifest file and Application Cache API are being phased out in favor of newer technologies like Service Workers and Progressive Web Apps (PWAs).
