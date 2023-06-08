@@ -1,0 +1,3 @@
+What is new about the relationship between the <header> and <h1> tags in HTML5?
+
+In HTML5, the `<header>` tag represents the introductory or navigational section of a webpage, while the `<h1>` tag is used within the `<header>` element to indicate the main heading or title of that section or the entire page. This clarifies the structure and hierarchy of headings in the HTML document.
