@@ -1,0 +1,10 @@
+How to specify the link in HTML '<a>' tag and explain the target attribute? What do the different target statuses in <a> tag  mean?
+
+using href we could specify the link in html tag
+
+target attribute tells us where should the link should get open.
+
+_self:- open the link on the same webpage ,default value
+_blank:-open the link on the different webpage
+_parent:-open the link on the parent frame
+_top:-will open the webpage in full body window.
