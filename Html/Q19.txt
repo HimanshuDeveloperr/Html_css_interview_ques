@@ -1,0 +1,5 @@
+What are forms and how to create forms in HTML? 
+
+The HTML form is used to collect the user inputs. HTML provides a <form> tag to create forms.
+To take input from the user we use the <input> tag inside the form so that all collected user data can be sent to the server for processing
+There are different input types like ‘button’, ‘checkbox’, ‘number’, ‘text’, ‘password’, ‘submit’ etc.
