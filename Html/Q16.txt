@@ -1,0 +1,6 @@
+
+In how many ways can we specify the CSS styles for the HTML element?
+
+inline CSS
+external CSS
+internal CSS
