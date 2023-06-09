@@ -1,0 +1,5 @@
+Difference between visibility:hidden; and display:none;
+
+visibility hidden will make the contents hide but takes the space as the contents are still in the dom
+
+display none will remove the contents from the dom and make s the contents invisible like they never existed
