@@ -1,0 +1,35 @@
+What is shadow DOM?Give an example
+
+
+Shadow DOM is a technology that allows web developers to create isolated components with their own special styles and behaviors. It keeps these components separate from the rest of the webpage, so their styles and functions won't affect or be affected by other parts of the page. It's like creating a mini "shadow" version of the webpage inside the main webpage.
+
+<!DOCTYPE html>
+<html>
+  <head>
+    <style>
+      /* Global styles */
+      p {
+        color: red;
+      }
+    </style>
+  </head>
+  <body>
+    <p>This is a normal paragraph with global styles.</p>
+    
+    <div id="custom-component"></div>
+
+    <script>
+      const customComponent = document.getElementById("custom-component");
+
+      // Create a shadow root for the custom component
+      const shadowRoot = customComponent.attachShadow({ mode: 'open' });
+
+      // Create an element within the shadow DOM
+      const paragraph = document.createElement("p");
+      paragraph.textContent = "This paragraph is styled by the shadow DOM.";
+
+      // Attach the element to the shadow root
+      shadowRoot.appendChild(paragraph);
+    </script>
+  </body>
+</html>
