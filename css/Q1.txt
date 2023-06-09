@@ -1,0 +1,8 @@
+What is the Box model in CSS? Which CSS properties are a part of it?
+
+box model is a wraper that wraps the html contents inside it 
+it has 4 properties 
+padding
+border
+margin
+contents
