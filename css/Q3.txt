@@ -1,0 +1,14 @@
+How to align a block element inside another element? Give code example.
+
+we could use position for it.
+
+.out{
+    position:relative;
+}
+
+.in{
+    position:absolute
+    top:50%;
+    left:50%;
+    transition:tranform(-50%,-50%)
+}
