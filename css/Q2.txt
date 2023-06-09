@@ -1,0 +1,3 @@
+What is specificity?
+
+specificity is the set of rules given in css to resolve the conflicting css properties for the same element
