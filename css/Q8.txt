@@ -1,0 +1,11 @@
+ What are pseudo elements?Give Examples.
+
+
+Pseudo-elements in CSS are special selectors that let you style specific parts of an element. They create virtual elements that don't exist in the HTML structure. Here are a few examples:
+
+1. `::before`: Adds content before an element.
+2. `::after`: Adds content after an element.
+3. `::first-line`: Styles the first line of text within an element.
+4. `::selection`: Styles the text that a user selects on a webpage.
+
+Pseudo-elements provide additional styling capabilities by targeting specific portions of elements and allowing you to apply styles or add content to those parts.
