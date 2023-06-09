@@ -1,0 +1,9 @@
+Difference between Static, Relative, Absolute and Fixed position?
+they all are used for positioning the elements
+static is the default value it does not give any properties to chamge the position of element
+
+relative changes its position in referrence with its origin
+
+absolute changes its position in referrence with it parent 
+
+Fixed with the entire screen .
