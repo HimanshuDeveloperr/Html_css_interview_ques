@@ -1,0 +1,24 @@
+
+What is zindex?
+
+z-index is a CSS property that determines the stacking order of elements on a web page. It controls which elements appear in front or behind other elements.
+The higher the z-index value, the closer the element is to the front. It is commonly used to overlay elements, create dropdown menus, and manage layering in web design.
+
+depends on the position property of elements.
+
+
+
+
+Think of a stack of papers on a table. Each paper represents an element on a webpage. The z-index is like a number written on each paper that determines its position in the stack. When elements overlap, the one with a higher z-index value appears on top, while those with lower values are hidden behind. This property is used to control the order in which elements are layered, ensuring certain elements appear in front of others and giving designers more control over the visual layout of a webpage.
+
+
+
+
+1. Use meaningful and descriptive values.
+2. Avoid excessive reliance on high z-index values.
+3. Plan and organize your stacking context.
+4. Test across different viewports and browsers.
+5. Consider alternative layout techniques when possible.
+
+Following these guidelines will help you maintain a clean and predictable stacking order for elements on your web page.
+
