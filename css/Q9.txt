@@ -1,0 +1,8 @@
+
+What are Data attributes?
+
+
+Data attributes are a way to add custom data to HTML elements. They start with "data-" followed by a custom name. They allow you to store extra information in the HTML, which can be accessed and manipulated using JavaScript or CSS. It's useful for attaching your own data to elements, like product IDs or categories, to enhance interactivity and dynamic behavior on web pages.
+
+
+used to store data inside an element
